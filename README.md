@@ -7,7 +7,7 @@ Encrypt-Decrypt <i>**any file**</i>.
 The program takes all the bits of the file in an array, and then applies a XOR operation with a key to encrypt it.
 To decrypt it, it applies the XOR operation with the same key to get back the file.
 
-<b>Example of XOR operation and how this works</b>b>
+<b>Example of XOR operation and how this works</b>
 
 ```python
 a = 10 # a represents the bits of the file you wanna encrypt
