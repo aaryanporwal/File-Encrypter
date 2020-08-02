@@ -1,6 +1,6 @@
 ## File Encryptor 🔐
 
-Encrypt-Decrypt <i>**any file**</i>.
+Encrypt-Decrypt <i>**any file**</i>, made without any external library.
 
 ### Working
 
