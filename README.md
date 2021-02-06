@@ -36,3 +36,5 @@ python3 cryptocode.py
 2.  Replace name of your encrypted file in the 7th line to any name. (this will be your decrypted file)
 
 3.  That's it! Just run cryptocode.py and you'll see the decrypted file in your folder! 🥳
+
+> If you haven't guessed till now, DON'T USE THIS FOR ANYTHING SERIOUS, this method is super easy to crack (think of single for loop).
